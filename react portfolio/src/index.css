@@ -141,31 +141,31 @@ article {
   --project: url('./assets/bedecked.png') no-repeat center top / cover;
 }
 .card:nth-child(3) {
-  --project: url('.\assets\drink2.png') no-repeat center top / cover;
+  --project: url('./assets/drink2.png') no-repeat center top / cover;
 }
 .card:nth-child(4) {
-  --project: url('.\assets\drink.png') no-repeat center top / cover;
+  --project: url('./assets/drink.png') no-repeat center top / cover;
 }
 .card:nth-child(5) {
-  --project: url('.\assets\githubby.png') no-repeat center top / cover;
+  --project: url('./assets/githubby.png') no-repeat center top / cover;
 }
 .card:nth-child(6) {
-  --project: url('.\assets\mercy.png') no-repeat center top / cover;
+  --project: url('./assets/mercy.png') no-repeat center top / cover;
 }
 .card:nth-child(7) {
-  --project: url('.\assets\mini1.png') no-repeat center top / cover;
+  --project: url('.assets/mini1.png') no-repeat center top / cover;
 }
 .card:nth-child(8) {
-  --project: url('.\assets\mini2.png') no-repeat center top / cover;
+  --project: url('./assets/mini2.png') no-repeat center top / cover;
 }
 .card:nth-child(9) {
-  --project: url('.\assets\northmarch.png') no-repeat center top / cover;
+  --project: url('./assets/northmarch.png') no-repeat center top / cover;
 }
 .card:nth-child(10) {
-  --project: url('.\assets\prework.png') no-repeat center top / cover;
+  --project: url('./assets/prework.png') no-repeat center top / cover;
 }
 .card:nth-child(11) {
-  --project: url('.\assets\tarot.png') no-repeat center top / cover;
+  --project: url('./assets/tarot.png') no-repeat center top / cover;
 }
 
 .card {
