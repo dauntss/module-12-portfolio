@@ -4,7 +4,7 @@
 
 ## Description
 
-![A screencapture of the final product.](./public/cap1.png)
+![Screencap of a pink and purple coding portfolio](<react portfolio/public/cap1.png>)
 
 ## Table of Contents
 
@@ -15,17 +15,16 @@
 
 ## Installation
 
-Visit [https://githubby.onrender.com](https://githubby.onrender.com)
+Visit [https://dantesportfolio.netlify.app/](https://dantesportfolio.netlify.app/)
 
 ## Usage
 
-Hunting for employees via random github users.
+View projects completed by @Dauntss
 
 ## Contributions
 
 Vite
-Express.js
-Render
+Netlify
 Typescript
 
 ## License 
