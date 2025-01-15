@@ -153,7 +153,7 @@ article {
   --project: url('./assets/mercy.png') no-repeat center top / cover;
 }
 .card:nth-child(7) {
-  --project: url('.assets/mini1.png') no-repeat center top / cover;
+  --project: url('./assets/mini1.png') no-repeat center top / cover;
 }
 .card:nth-child(8) {
   --project: url('./assets/mini2.png') no-repeat center top / cover;
