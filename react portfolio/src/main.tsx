@@ -6,6 +6,7 @@ import App from './App.tsx';
 import AboutMe from './pages/AboutMe.tsx';
 import Portfolio from './pages/Portfolio.tsx';
 import Contact from './pages/Contact.tsx';
+import Resume from './pages/Resume.tsx';
 import ErrorPage from './pages/ErrorPage.tsx';
 
 const router = createBrowserRouter([
@@ -25,6 +26,10 @@ const router = createBrowserRouter([
       {
         path: '/Contact',
         element: <Contact />,
+      },
+      {
+        path: '/Resume',
+        element: <Resume />,
       },
     ],
   },

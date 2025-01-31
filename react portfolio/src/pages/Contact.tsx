@@ -3,9 +3,9 @@ const Contact = () => {
         <>
             <h2>Contact Me</h2>
             <form>
-                <input type="text" placeholder="Name..."></input>
-                <input type="email" placeholder="Email..."></input>
-                <textarea placeholder="Message..."></textarea>
+                <input type="text" placeholder="Name..." required></input>
+                <input type="email" placeholder="Email..." required></input>
+                <textarea placeholder="Message..." required></textarea>
                 <button>Submit</button>
             </form>
         </>
